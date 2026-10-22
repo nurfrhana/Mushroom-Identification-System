@@ -10,4 +10,4 @@
 ## Non-functional requirements (how the system must PERFORM)
 1. The identification page shall load in under 3 seconds.
 2. The system shall shows the unknown-species warning if the model confidence is below 70%.
-3. The system shall achieve an identification accuracy of at least 80% on the test set of the selected mushroom species.
+3. The system shall achieve an identification accuracy of at least 80% on the test set of selected mushroom species.
