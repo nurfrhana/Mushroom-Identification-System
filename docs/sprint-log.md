@@ -8,18 +8,18 @@ By the end of this day my user stories have acceptance criteria and my README sh
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | complete problem statement | not done |
-| #2 | | To do |
-| #3 | | To do |
+| #1 | | complete problem statement | done |
+| #2 | | complete the requirements and user story| done |
+| #3 | | complete README portfolio| not done
 
 ### Daily standup notes
 - Standup 1: [complete my problem statement / a busy day at home might block me from getting it done sooner.]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 2: [complete the requirements and user story / i want to complete the README portfolio tomorrow / so far there is no blocker in completing this task.]
 
 ### Sprint review
-I finished issue #1, but with some difficulty and I managed to solve it
+- I finished issue #1, but with some difficulty and I managed to solve it.
 
-### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+### Retrospective 1
+- What went well: Issue #1
+- What was difficult: to update my project, (backlog and done)
+- What I will change next time: to learn more on how to use github.
