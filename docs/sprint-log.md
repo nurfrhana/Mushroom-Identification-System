@@ -17,7 +17,7 @@ By the end of this day my user stories have acceptance criteria and my README sh
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I finished issue #1, but with some difficulty and I managed to solve it
 
 ### Retrospective
 - What went well:
